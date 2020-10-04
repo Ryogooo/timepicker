@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">timepicker</string>
+    <string name="set">セット</string>
+    <string name="release">解除</string>
+</resources>
